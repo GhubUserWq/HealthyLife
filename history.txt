@@ -1,0 +1,51 @@
+  182  git clone https://github.com/GhubUserWq/HealthyLife.git
+  183  ls
+  184  cd HealthyLife
+  185  touch Console App
+  186  git status
+  187  ls
+  188  rm -r App
+  189  rm -r Console
+  190  touch ConsoleApp.cs
+  191  git status
+  192  git add .
+  193  git status
+  194  git commit -m "Created ConsoleApp.cs"
+  195  git push
+  196  git branch develop release hotfix
+  197  git branch
+  198  git branch develop
+  199  git branch release
+  200  git branch hotfix
+  201  git branch
+  202  git checkout develop
+  203  git branch feature
+  204  git branch
+  205  git push --all
+  206  git push --all origin
+  207  Updates remote refs using local refs, while sending objects necessary to complete the given refs.
+  210  git branch dev/products-added
+  211  git branch dev/patients-registration
+  212  git branch
+  213  git checkout dev/products-added
+  214  git status
+  215  git commit -m "dev/products-added ga bitta commit"
+  216  git push
+  217  git  push --set-upstream origin dev/products-added
+  218  git switch dev/patients-registration
+  219  git commit "birinchi commit"
+  220  git commit -m "birinchi commit"
+  221  git commit -m "ikkinchi commit"
+  222  git  push --set-upstream origin dev/patients-registration
+  224  git switch hotfix
+  226  echo "Console.WriteLine" >> ConsoleApp.cs 
+  227  echo "("hello");" >> ConsoleApp.cs 
+  228  git commit -m "added a line"
+  229  git add .
+  230  git status
+  231  git commit -m "added a line"
+  232  git merge release
+  233  git push origin release
+  234  git push origin hotfix
+  235  git switch main
+  236  history >> history.txt

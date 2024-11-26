@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\bin\Debug\net9.0\hmrwk_TryCatch.exe
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\bin\Debug\net9.0\hmrwk_TryCatch.deps.json
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\bin\Debug\net9.0\hmrwk_TryCatch.runtimeconfig.json
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\bin\Debug\net9.0\hmrwk_TryCatch.dll
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\bin\Debug\net9.0\hmrwk_TryCatch.pdb
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.AssemblyInfo.cs
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.dll
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\refint\hmrwk_TryCatch.dll
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.pdb
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\hmrwk_TryCatch.genruntimeconfig.cache
+C:\Users\user\Desktop\hmrwk_TryCatch\hmrwk_TryCatch\obj\Debug\net9.0\ref\hmrwk_TryCatch.dll
